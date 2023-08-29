@@ -1,0 +1,8 @@
+[
+    { "keys": ["super+1"], "command": "toggle_side_bar" },
+    { 
+        "keys": ["super+2"], "command": "toggle_terminus_panel", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    }
+]

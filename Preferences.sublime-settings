@@ -1,0 +1,32 @@
+{
+    "update_check": false,
+    "added_words":
+    [
+        "Laravel"
+    ],
+    "ensure_newline_at_eof_on_save": true,
+    "findreplace_small": true,
+    "hot_exit": false,
+    "remember_open_files": false,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "caret_style": "phase",
+    "theme": "ayu-light.sublime-theme",
+    "color_scheme": "GitHub Light.sublime-color-scheme",
+    "font_face": "JetBrains Mono",
+    "font_size": 18,
+    "line_padding_bottom": 9,
+    "line_padding_top": 9,
+
+    "ui_native_titlebar": false, // native titlebar on macOs
+    "ui_separator": true, // separators between panels
+    "ui_wide_scrollbars": true, // wider scrollbars
+
+    "git_gutter_enable": true,
+
+    "github_oauth_token": "your github oauth token ",
+}
