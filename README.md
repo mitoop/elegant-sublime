@@ -18,8 +18,8 @@
 [`Settings`](./Preferences.sublime-settings) & [`Keymap`](./x.sublime-keymap)
 
 ## Screenshot
-<img  src="./images/1.jpg" alt="screenshot"/>
+<img  src="./images/1.png" alt="screenshot"/>
 
-<img  src="./images/2.jpg" alt="screenshot"/>
+<img  src="./images/2.png" alt="screenshot"/>
 
 
