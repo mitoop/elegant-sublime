@@ -25,3 +25,5 @@
 ## 后注
 我又换回了vscode(为了生态)，vscode在 M2 Max 驱动下也可以秒开了。
 
+2024 还是用回 Sublime 了，vscode 代码界面不精致。
+
